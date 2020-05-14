@@ -1,0 +1,7 @@
+D:\усрс1\usr1\usr11\obj\Debug\usr11.vbprojAssemblyReference.cache
+D:\усрс1\usr1\usr11\obj\Debug\usr11.Form1.resources
+D:\усрс1\usr1\usr11\obj\Debug\usr11.DataController.resources
+D:\усрс1\usr1\usr11\obj\Debug\usr11.AxisController.resources
+D:\усрс1\usr1\usr11\obj\Debug\usr11.Resources.resources
+D:\усрс1\usr1\usr11\obj\Debug\usr11.vbproj.GenerateResource.cache
+D:\усрс1\usr1\usr11\obj\Debug\usr11.vbproj.CoreCompileInputs.cache
